@@ -6,7 +6,6 @@ public class FrogCommands {
 
             @Override
             public boolean doCommand() {
-
                 return frog.jump(step);
             }
 
